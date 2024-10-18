@@ -22,7 +22,7 @@ The project involves building reports, dashboards, and performing advanced analy
 - **Total Customers**
 - **Total Costs**
 
-  ![image](https://github.com/user-attachments/assets/c4b45067-7b3f-43e1-b7ac-baa8c1b33348)
+![image](https://github.com/user-attachments/assets/c4b45067-7b3f-43e1-b7ac-baa8c1b33348)
 
 ### 3. **Advanced Reporting & Insights**
 - **Top 5 Selling Products**: Identify the top-performing products based on sales volume.
@@ -42,7 +42,7 @@ The project involves building reports, dashboards, and performing advanced analy
 - **Running Averages and Cumulative Sums**.
 - **Drill Down/Up**: Move between different levels of data granularity (e.g., yearly to daily).
 
-  ![image](https://github.com/user-attachments/assets/4585ec84-2509-4ce1-ae08-c585f12f8ad2)
+![image](https://github.com/user-attachments/assets/4585ec84-2509-4ce1-ae08-c585f12f8ad2)
 
 
 ## Installation & Setup
@@ -53,13 +53,9 @@ The project involves building reports, dashboards, and performing advanced analy
 - **Data Source**: Ensure access to relevant data files (orders, customers, products).
 
 ### Steps:
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. Set up data connections and refresh the dataset.
-4. Interact with the dashboard by using slicers, filters, and cross-visual filters.
+1. Open the `.pbix` file in **Power BI Desktop**.
+2. Set up data connections and refresh the dataset.
+3. Interact with the dashboard by using slicers, filters, and cross-visual filters.
 
 ## Usage
 - Use the report to explore sales, customer trends, and product performance.
