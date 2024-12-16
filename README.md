@@ -1,6 +1,6 @@
 # Power BI Dashboards Repository
 
-![Power BI Icon](https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.png)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 Welcome to my Power BI Dashboards Repository! This repository contains a collection of Power BI projects, each with their own set of reports, visualizations, and data sources. These dashboards can be used for a variety of purposes, including business intelligence analysis, data exploration, and performance monitoring.
 
