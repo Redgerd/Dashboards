@@ -2,9 +2,9 @@
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-The project involves building reports, dashboards, and performing advanced analytics to track key performance indicators (KPIs), time-based trends, and multi-dimensional analysis by transforming raw data into actionable visualizations, helping businesses make informed decisions.
+The project focuses on creating comprehensive reports, dashboards, and performing advanced analytics to help businesses track key performance indicators (KPIs), uncover time-based trends, and enable multi-dimensional analysis. Using Power BI, raw data is transformed into actionable insights, empowering organizations to make informed decisions.
 
-You may Download [Superstore Analytics File](./Superstore.pbix) here.
+[Download Superstore Analytics File](./Superstore.pbix)
 
 
 ## Features
